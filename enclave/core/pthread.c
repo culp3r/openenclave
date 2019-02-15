@@ -1,6 +1,5 @@
 // Copyright (c) Microsoft Corporation. All rights reserved.
 // Licensed under the MIT License.
-
 #include <openenclave/corelibc/errno.h>
 #include <openenclave/corelibc/pthread.h>
 #include <openenclave/enclave.h>
